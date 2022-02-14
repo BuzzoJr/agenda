@@ -27,7 +27,7 @@
     </div>
     <div class="row">
         <div>
-                <a href="{{ route('agenda.manage') }}" class="btn btn-primary" role="button"><i class="fas fa-plus fa-fw"></i>Novo Produto</a>
+                <a href="{{ route('agenda.manage') }}" class="btn btn-primary" role="button"><i class="fas fa-plus fa-fw"></i>Novo Contato</a>
         </div>
     </div>
 </div>
